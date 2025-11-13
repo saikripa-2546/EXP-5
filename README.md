@@ -28,10 +28,20 @@ PROCEDURE:
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
+![WhatsApp Image 2025-11-13 at 21 02 22_2dc05e26](https://github.com/user-attachments/assets/c4bec4c1-71fa-4b3a-b516-95ba85cd0ede)
+![WhatsApp Image 2025-11-13 at 21 02 22_8f948e2d](https://github.com/user-attachments/assets/27d0d51e-524c-4dda-9afe-6f39ae5e8653)
+![WhatsApp Image 2025-11-13 at 21 02 22_01183f4a](https://github.com/user-attachments/assets/2654fda6-637f-4c0c-9254-451118bc6292)
+![WhatsApp Image 2025-11-13 at 21 02 23_43392011](https://github.com/user-attachments/assets/92c5da9e-3e6a-49d4-b6f6-7d4ba507cd13)
+![WhatsApp Image 2025-11-13 at 21 02 23_4e0fde5e](https://github.com/user-attachments/assets/ba8d5808-132f-42b5-9958-d3e17a2f6333)
+![WhatsApp Image 2025-11-13 at 21 02 25_ac3bd108](https://github.com/user-attachments/assets/1f083c1a-c7b3-43c7-b806-dc0d9ab11747)
 
 REGULATION CHARACTERISTICS:
+LINE REGULATION:
+<img width="1184" height="445" alt="image" src="https://github.com/user-attachments/assets/490828ce-448e-49b8-9dbd-9bdcefe2f5a9" />
 
-V-I & REGULATION CHARACTERISTICS:
+LOAD REGULATION:
+<img width="850" height="308" alt="image" src="https://github.com/user-attachments/assets/9c773232-8368-48a8-a1d3-5f7563dfca43" />
+
 
 PRECAUTIONS:
 
